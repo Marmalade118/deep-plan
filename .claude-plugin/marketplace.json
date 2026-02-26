@@ -1,11 +1,11 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "piercelamb-plugins",
+  "name": "marmalade118-plugins",
   "description": "Claude Code plugins by Pierce Lamb",
   "version": "1.0.0",
   "owner": {
     "name": "Pierce Lamb",
-    "url": "https://github.com/piercelamb"
+    "url": "https://github.com/marmalade118"
   },
   "plugins": [
     {
@@ -13,15 +13,15 @@
       "description": "Split vague project requirements into well-scoped units for /deep-plan",
       "version": "0.2.0",
       "author": {
-        "name": "piercelamb",
-        "url": "https://github.com/piercelamb"
+        "name": "marmalade118",
+        "url": "https://github.com/marmalade118"
       },
       "source": {
         "source": "url",
-        "url": "https://github.com/piercelamb/deep-project.git"
+        "url": "https://github.com/marmalade118/deep-project.git"
       },
       "category": "development",
-      "homepage": "https://github.com/piercelamb/deep-project",
+      "homepage": "https://github.com/marmalade118/deep-project",
       "tags": ["planning", "decomposition", "project-management", "requirements"]
     },
     {
@@ -29,12 +29,12 @@
       "description": "AI-assisted deep planning with research, interview, external LLM review, and TDD approach",
       "version": "0.3.1",
       "author": {
-        "name": "piercelamb",
-        "url": "https://github.com/piercelamb"
+        "name": "marmalade118",
+        "url": "https://github.com/marmalade118"
       },
       "source": "./",
       "category": "development",
-      "homepage": "https://github.com/piercelamb/deep-plan",
+      "homepage": "https://github.com/marmalade118/deep-plan",
       "tags": ["planning", "tdd", "architecture", "llm-review", "implementation"]
     },
     {
@@ -42,15 +42,15 @@
       "description": "Implement code from /deep-plan sections with TDD, code review, and git workflow",
       "version": "0.2.0",
       "author": {
-        "name": "piercelamb",
-        "url": "https://github.com/piercelamb"
+        "name": "marmalade118",
+        "url": "https://github.com/marmalade118"
       },
       "source": {
         "source": "url",
-        "url": "https://github.com/piercelamb/deep-implement.git"
+        "url": "https://github.com/marmalade118/deep-implement.git"
       },
       "category": "development",
-      "homepage": "https://github.com/piercelamb/deep-implement",
+      "homepage": "https://github.com/marmalade118/deep-implement",
       "tags": ["implementation", "tdd", "code-review", "git", "workflow"]
     }
   ]
