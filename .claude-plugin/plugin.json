@@ -3,10 +3,10 @@
   "description": "AI-assisted deep planning with research, interview, external LLM review, and TDD approach",
   "version": "0.3.1",
   "author": {
-    "name": "piercelamb",
-    "url": "https://github.com/piercelamb"
+    "name": "marmalade118 | piercelamb",
+    "url": "https://github.com/marmalade118"
   },
-  "repository": "https://github.com/piercelamb/deep-plan",
+  "repository": "https://github.com/marmalade118/deep-plan",
   "license": "MIT",
   "keywords": ["planning", "tdd", "architecture", "llm-review", "implementation"]
 }
