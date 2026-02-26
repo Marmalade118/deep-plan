@@ -1,10 +1,10 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "marmalade118-plugins",
+  "name": "marmalade118-piercelamb-plugins",
   "description": "Claude Code plugins by Pierce Lamb",
   "version": "1.0.0",
   "owner": {
-    "name": "Pierce Lamb",
+    "name": "Marmalade118 | Pierce Lamb",
     "url": "https://github.com/marmalade118"
   },
   "plugins": [
